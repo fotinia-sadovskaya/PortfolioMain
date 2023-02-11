@@ -240,4 +240,8 @@ p {
     color: var(--secondary-color);
     border: 1px solid var(--secondary-color);
   }
+
+  .social-network-link {
+    margin: 0px 0px 20px 0px;
+  }
 }
