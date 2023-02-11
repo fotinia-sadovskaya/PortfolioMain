@@ -201,7 +201,7 @@ p {
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
-    line-height: 1.5;
+    line-height: 1.1;
   }
 
   h2 {
@@ -209,8 +209,12 @@ p {
     text-align: center;
   }
 
-  h3 {
+  h1, h2, h3 {
     margin: 5px 15px;
+  }
+
+  h3 {
+    margin: 20px 15px;
   }
 
   .about-paragraphs {
