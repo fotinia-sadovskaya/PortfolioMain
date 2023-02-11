@@ -209,6 +209,10 @@ p {
     text-align: center;
   }
 
+  h3 {
+    margin: 5px 15px;
+  }
+
   .about-paragraphs {
     text-align: center;
   }
