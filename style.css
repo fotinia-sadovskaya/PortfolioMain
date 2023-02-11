@@ -55,11 +55,12 @@ p {
 }
 
 .social-network-link {
+  margin: 10px;
   color: rgb(255, 255, 255);
 }
 
 .social-network-link:hover {
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .learn-more,
