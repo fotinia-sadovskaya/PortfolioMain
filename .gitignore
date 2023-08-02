@@ -1,4 +1,2 @@
 node_modules
-git rm -r --cached .idea
-git commit -m 'Remove the now ignored directory .idea'
-git push
+
